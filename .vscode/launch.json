@@ -1,0 +1,295 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "p21",
+            "request": "launch",
+            "mainClass": "p21",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p20",
+            "request": "launch",
+            "mainClass": "p20",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p145",
+            "request": "launch",
+            "mainClass": "p145",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p144",
+            "request": "launch",
+            "mainClass": "p144",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p143",
+            "request": "launch",
+            "mainClass": "p143",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p141",
+            "request": "launch",
+            "mainClass": "p141",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p1153",
+            "request": "launch",
+            "mainClass": "p1153",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p1152",
+            "request": "launch",
+            "mainClass": "p1152",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p950",
+            "request": "launch",
+            "mainClass": "p950",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p949",
+            "request": "launch",
+            "mainClass": "p949",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p948",
+            "request": "launch",
+            "mainClass": "p948",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p947",
+            "request": "launch",
+            "mainClass": "p947",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p946",
+            "request": "launch",
+            "mainClass": "p946",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p945",
+            "request": "launch",
+            "mainClass": "p945",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p26",
+            "request": "launch",
+            "mainClass": "p26",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p18",
+            "request": "launch",
+            "mainClass": "p18",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "pp4",
+            "request": "launch",
+            "mainClass": "pp4",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "pp3",
+            "request": "launch",
+            "mainClass": "pp3",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p28",
+            "request": "launch",
+            "mainClass": "p28",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p24",
+            "request": "launch",
+            "mainClass": "p24",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p22",
+            "request": "launch",
+            "mainClass": "p22",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p16l3",
+            "request": "launch",
+            "mainClass": "p16l3",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p19",
+            "request": "launch",
+            "mainClass": "p19",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p844",
+            "request": "launch",
+            "mainClass": "p844",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p842",
+            "request": "launch",
+            "mainClass": "p842",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p843",
+            "request": "launch",
+            "mainClass": "p843",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p41",
+            "request": "launch",
+            "mainClass": "p41",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p40",
+            "request": "launch",
+            "mainClass": "p40",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p39",
+            "request": "launch",
+            "mainClass": "p39",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p32",
+            "request": "launch",
+            "mainClass": "p32",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p38",
+            "request": "launch",
+            "mainClass": "p38",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p33",
+            "request": "launch",
+            "mainClass": "p33",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p31",
+            "request": "launch",
+            "mainClass": "p31",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p37",
+            "request": "launch",
+            "mainClass": "p37",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "P36",
+            "request": "launch",
+            "mainClass": "P36",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p36",
+            "request": "launch",
+            "mainClass": "p36",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p35",
+            "request": "launch",
+            "mainClass": "p35",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p34",
+            "request": "launch",
+            "mainClass": "p34",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
+            "name": "p30",
+            "request": "launch",
+            "mainClass": "p30",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
