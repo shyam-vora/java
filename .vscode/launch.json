@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p121",
+            "request": "launch",
+            "mainClass": "p121",
+            "projectName": "shyam__(JAVA PROGRAM)_2fe2252"
+        },
+        {
+            "type": "java",
             "name": "p21",
             "request": "launch",
             "mainClass": "p21",
