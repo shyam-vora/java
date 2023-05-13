@@ -29,7 +29,6 @@ class tomato extends vegtable
         System.out.println(name + " " + colour);
     }
 }
-
 public class p121 {
     public static void main(String[] args) {
         potato sc=new potato();
